@@ -13,6 +13,10 @@ The following Figure shows the so called 'spectral gap' along a RC (TICs). Keep 
 
 ![tic-seperation](/left-righttic.png)
 
+Timescale of the process (Zero indexed)
+
+![tic-timescale](/timescale-sgoop.png)
+
 Notes:
 
 1. See Analysis folder to see how I generated the TICA.
