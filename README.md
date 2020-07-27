@@ -5,6 +5,10 @@ BPTI is like a rock. The local fluctuation in the loop region opens up the cavit
 
 ![bpti](/local-fluctuation.png)
 
+The following Figure shows what I meant by FW and SW in the Jupyter Notebooks
+
+![bpti-water](/water-bpti-fwsw.png)
+
 Notes:
 
 1. See Analysis folder to see how I generated the TICA.
