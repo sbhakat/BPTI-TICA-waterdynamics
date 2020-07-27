@@ -9,6 +9,10 @@ The following Figure shows what I meant by FW and SW in the Jupyter Notebooks
 
 ![bpti-water](/water-bpti-fwsw.png)
 
+The following Figure shows the so called 'spectral gap' along a RC (TICs). Keep an eye on the timescale (in this case frames) seperation.
+
+![tic-seperation](/left-righttic.png)
+
 Notes:
 
 1. See Analysis folder to see how I generated the TICA.
