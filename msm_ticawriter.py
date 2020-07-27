@@ -26,5 +26,5 @@ df = pd.DataFrame(feat.describe_features(ds[0]))
 
 tica_mdl = load("tica_mdl_rawpos.pkl")
 
-#Then to render tIC 0
-print(render_tic(df,tica_mdl, 4))
+#Then to render tIC 1 (0 indexed)
+print(render_tic(df,tica_mdl, 0))
