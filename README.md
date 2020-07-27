@@ -23,6 +23,8 @@ Timescale of the process (Zero indexed)
 
 ![tica-timescale](/timescale-sgoop-new.png)
 
+The above figure is comparable to Figure 14D in Ghosh et al. 'The maximum caliber variational principle for nonequilibria', Annual Review of Physical Chemistry, 16:2, 2020 (link: https://www.annualreviews.org/doi/10.1146/annurev-physchem-071119-040206). This generalizes TICA and SGOOP. The exact mathematical similarity will be proven in upcoming paper.
+
 Sampling of the solvated state (DESRES vs Metadynamics): using TIC CV combined with PT-Metad-WTE
 
 ![metaddesres-timescale](/desres-metad.png)
