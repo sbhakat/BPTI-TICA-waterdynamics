@@ -8,3 +8,5 @@ Notes:
 1. See Table S2 in the paper entitled 'Transient access to the protein interior: Simulation vs NMR' by Persson and Halle to see the definition of M1 state.
 
 2. See 'How amide hydrogens exchage in native proteins' to see how one can calculate HDX from molecular simulation using simple cutoff distance.
+
+3. Check the atatched Figure to see what I meant by loop motion.
