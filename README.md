@@ -3,7 +3,7 @@ The core of a protein is held together by hydrogen bond interactions involving b
 
 BPTI is like a rock. The local fluctuation in the loop region opens up the cavity which enables HDX between Ile18NH and water. However, this is a very slow process. In millisecond long MD simulation of DESRES (within M1 ensemble) the loop fluctuation has very few sampling. In this project I have used TIC to capture the slow degrees of freedom associated with this loop motion. The TIC combined with PT-Metad-WTE enables better sampling of the conformational space.
 
-Our proposed called HDX mechanism
+Our proposed HDX mechanism
 
 ![bpti-hdx](/hdx-mechanism.png)
 
