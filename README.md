@@ -5,8 +5,10 @@ BPTI is like a rock. The local fluctuation in the loop region opens up the cavit
 
 Notes:
 
-1. See Table S2 in the paper entitled 'Transient access to the protein interior: Simulation vs NMR' by Persson and Halle to see the definition of M1 state.
+1. See Analysis folder to see how I generated the TICA.
 
-2. See 'How amide hydrogens exchage in native proteins' to see how one can calculate HDX from molecular simulation using simple cutoff distance.
+2. See Table S2 in the paper entitled 'Transient access to the protein interior: Simulation vs NMR' by Persson and Halle to see the definition of M1 state.
 
-3. Check the atatched Figure to see what I meant by loop motion.
+3. See 'How amide hydrogens exchage in native proteins' to see how one can calculate HDX from molecular simulation using simple cutoff distance.
+
+4. Check the atatched Figure to see what I meant by loop motion.
