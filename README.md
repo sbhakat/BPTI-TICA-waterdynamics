@@ -11,4 +11,4 @@ Notes:
 
 3. See 'How amide hydrogens exchage in native proteins' to see how one can calculate HDX from molecular simulation using simple cutoff distance.
 
-4. Check the atatched Figure to see what I meant by loop motion.
+4. Check the attached Figure to see what I meant by loop motion.
