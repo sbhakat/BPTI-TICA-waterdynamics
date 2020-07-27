@@ -23,6 +23,10 @@ Timescale of the process (Zero indexed)
 
 ![tic-timescale](/timescale-sgoop.png)
 
+Sampling of the solvated state (DESRES vs Metadynamics): using TIC CV combined with PT-Metad-WTE
+
+![metaddesres-timescale](/desres-metad.png)
+
 Notes:
 
 1. See Analysis folder to see how I generated the TICA.
