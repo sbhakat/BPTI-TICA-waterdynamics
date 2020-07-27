@@ -21,7 +21,7 @@ The following Figure shows the so called 'spectral gap' along a RC (TICs). Keep 
 
 Timescale of the process (Zero indexed)
 
-![tic-timescale](/timescale-sgoop.png)
+![tica-timescale](/timescale-sgoop.png)
 
 Sampling of the solvated state (DESRES vs Metadynamics): using TIC CV combined with PT-Metad-WTE
 
