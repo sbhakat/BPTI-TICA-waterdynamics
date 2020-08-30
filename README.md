@@ -38,3 +38,6 @@ Notes:
 3. See 'How amide hydrogens exchage in native proteins' to see how one can calculate HDX from molecular simulation using simple cutoff distance.
 
 4. Check the attached Figure to see what I meant by loop motion.
+
+It is important to mention SGOOP and TICA are both mathematically connected by Principle of maximum entropy. For details regarding TICA and its connection with maximum entropy one should check the following paper:
+Bell AJ, Sejnowski TJ (November 1995). "An information-maximization approach to blind separation and blind deconvolution". Neural Comput. 7(6): 1129–59. CiteSeerX 10.1.1.36.6605. doi:10.1162/neco.1995.7.6.1129
